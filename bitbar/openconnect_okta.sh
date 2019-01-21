@@ -42,7 +42,7 @@ VPN_USERNAME="dtaylor"
 
 # This will authenticate and retrieve a session DSID cookie
 # make sure this is in your path somewhere
-GET_DSID="ioktadsid.py"
+GET_DSID="oktadsid.py"
 
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 # END-OF-USER-SETTINGS #
